@@ -24,7 +24,6 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.5</version>
-            <scope>test</scope>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
@@ -51,7 +50,12 @@
             <version>2.17.2</version>
         </dependency>
 
-
+        <dependency>
+            <groupId>com.github.paulakimenko</groupId>
+            <artifactId>allure-testng-retry-listener</artifactId>
+            <version>0.1</version>
+            <scope>compile</scope>
+        </dependency>
 
 
     </dependencies>

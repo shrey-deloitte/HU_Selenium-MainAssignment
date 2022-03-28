@@ -15,13 +15,16 @@ public class BankManager {
 
 
     @Test(priority = 0)
-    public static void addCustomer(){
+    public static void addCustomer() throws IOException, AWTException {
+        Main.driver.findElement(By.xpath("//button[@ng-click='addCust()']")).click();
         Main.driver.findElement(By.xpath("//input[@ng-model='fName']")).sendKeys("qwerty");
         Main.driver.findElement(By.xpath("//input[@ng-model='lName']")).sendKeys("qwerty");
         Main.driver.findElement(By.xpath("//input[@ng-model='postCd']")).sendKeys("490009");
         Main.driver.findElement(By.xpath("//button[@class='btn btn-default']")).click();
         Main.driver.switchTo().alert().accept();
-        log4jDemo.logger.info("Customer Added");
+        log4j.logger.info("Customer Added");
+        Main.SuccessScreenshot();
+
     }
 
     @Test(priority = 1)
@@ -30,9 +33,9 @@ public class BankManager {
         Main.driver.findElement((By.xpath("//button[@ng-click='openAccount()']"))).click();
         Select customer=new Select(Main.driver.findElement(By.xpath("//select [@name='userSelect']")));
         customer.selectByVisibleText("qwerty qwerty");
-        log4jDemo.logger.info("Account Created");
+        log4j.logger.info("Account Created");
 
-        screenshot();
+        Main.SuccessScreenshot();
 
         Main.driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
         Select currency=new Select(Main.driver.findElement(By.xpath("//select [@name='currency']")));
@@ -46,11 +49,7 @@ public class BankManager {
         Main.driver.findElement(By.xpath("//button[@ng-click='home()']")).click();
     }
 
-    public static void screenshot() throws IOException, AWTException {
-        BufferedImage image = new Robot().createScreenCapture(new Rectangle(Toolkit.getDefaultToolkit().getScreenSize()));
 
-        ImageIO.write(image, "png", new File("C:\\Users\\shredeshpande\\IdeaProjects\\HU_Selenium_MainAssignment\\src\\resources\\"+"img"+".png"));
-    }
 
 
 
