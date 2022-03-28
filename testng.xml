@@ -4,7 +4,7 @@
     <test name="launch"   >
         <classes>
             <class name="Main" />
-            <class name="Home" />
+            <class name="BankManager" />
             <class name="Customer"/>
 
         </classes>

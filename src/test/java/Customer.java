@@ -39,12 +39,13 @@ public class Customer {
         String latestDepositedAmount= Main.driver.findElement(By.xpath("//STRONG[@class='ng-binding'][text()='1000']")).getText();
         Main.driver.findElement(By.xpath("//BUTTON[@ng-class='btnClass3']")).click();
         System.out.println("withdraw");
-        Main.driver.findElement(By.xpath("//INPUT[@type='number']/self::INPUT")).sendKeys("500");
-        sleep(2000);
+        Main.driver.findElement(By.xpath("//INPUT[@ng-model='amount']")).sendKeys("500");
+        Main.driver.manage().timeouts().getScriptTimeout();
+        Thread.sleep(2000);
         System.out.println("input added");
-        sleep(2000);
+        Thread.sleep(2000);
         Main.driver.findElement(By.xpath("//BUTTON[@type='submit'][text()='Withdraw']/self::BUTTON")).click();
-        sleep(3000);
+        Thread.sleep(3000);
         String withdraw= Main.driver.findElement(By.xpath("//STRONG[@class='ng-binding'][text()='500']/self::STRONG")).getText();
         if (Integer.parseInt(latestDepositedAmount)==Integer.parseInt(latestDepositedAmount)-Integer.parseInt(withdraw)){
             System.out.println("success");
