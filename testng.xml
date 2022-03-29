@@ -6,6 +6,7 @@
             <class name="Main" />
             <class name="BankManager" />
             <class name="Customer"/>
+            <class name="Validations"/>
 
         </classes>
     </test>

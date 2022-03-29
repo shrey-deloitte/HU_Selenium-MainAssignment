@@ -519,3 +519,161 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [INFO ] 2022-03-29 12:47:48.036 [main] log4j - balance amount cross-checked
 [INFO ] 2022-03-29 12:47:59.248 [main] log4j - Message Successfully printed
 [INFO ] 2022-03-29 12:47:59.295 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:51:40.324 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:51:48.039 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:51:48.804 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:51:49.526 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 12:51:49.567 [main] log4j - Logged In
+[INFO ] 2022-03-29 12:51:50.259 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:51:50.754 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 12:51:50.754 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 12:51:50.771 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 12:52:01.970 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 12:52:02.020 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:00:19.213 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:00:27.469 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:00:28.994 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:00:30.256 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:00:30.352 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:00:31.178 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:00:31.984 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:00:31.985 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:00:32.035 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:00:43.561 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:00:43.692 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:02:22.000 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:02:30.337 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:02:31.719 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:02:33.083 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:02:33.195 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:02:34.017 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:02:34.807 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:02:34.807 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:02:34.854 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:02:46.404 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:02:46.558 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:03:57.992 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:04:06.281 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:04:07.641 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:04:09.113 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:04:09.215 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:04:10.040 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:04:10.802 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:04:10.803 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:04:10.852 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:04:22.399 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:04:22.533 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:06:31.536 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:06:39.774 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:06:41.197 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:06:42.527 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:06:42.617 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:06:43.441 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:06:44.128 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:06:44.129 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:06:44.177 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:06:55.671 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:06:55.812 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:06:55.919 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:06:55.920 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:06:57.012 [main] log4j - Back clicked
+[INFO ] 2022-03-29 13:09:39.801 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:09:47.980 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:09:49.320 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:09:50.679 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:09:50.771 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:09:51.658 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:09:52.575 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:09:52.575 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:09:52.627 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:10:04.142 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:10:04.267 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:10:04.391 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:10:04.392 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:10:05.520 [main] log4j - Back clicked
+[INFO ] 2022-03-29 13:11:33.621 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:11:42.002 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:11:43.250 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:11:44.760 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:11:44.861 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:11:45.714 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:11:46.564 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:11:46.564 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:11:46.625 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:11:58.153 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:11:58.385 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:11:58.524 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:11:58.525 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:11:59.624 [main] log4j - Back clicked
+[INFO ] 2022-03-29 13:16:53.120 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:17:02.373 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:17:04.831 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:17:06.742 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:17:06.839 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:17:08.466 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:17:09.196 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:17:09.196 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:17:09.245 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:17:20.757 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:17:20.912 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:17:21.023 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:17:21.024 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:17:26.542 [main] log4j - Withdraw error message printed
+[INFO ] 2022-03-29 13:23:37.903 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:25:51.610 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:26:02.265 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:26:04.747 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:26:07.205 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:26:07.290 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:26:08.873 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:26:10.554 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:26:10.555 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:26:10.599 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:26:22.079 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:26:22.190 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:26:22.293 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:26:22.294 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:26:27.798 [main] log4j - Withdraw error message printed
+[INFO ] 2022-03-29 13:27:44.190 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:27:54.910 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:27:56.486 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:27:58.661 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:27:58.751 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:28:00.454 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:28:01.874 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:28:01.874 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:28:01.917 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:28:13.439 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:28:13.561 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:28:13.649 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:28:13.649 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:28:19.178 [main] log4j - Withdraw error message printed
+[INFO ] 2022-03-29 13:30:10.071 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:30:20.514 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:30:22.229 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:30:23.495 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:30:23.579 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:30:24.663 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:30:25.842 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:30:25.842 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:30:25.880 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:30:37.369 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:30:37.523 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:30:37.632 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:30:37.632 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:30:43.113 [main] log4j - Withdraw error message printed
+[INFO ] 2022-03-29 13:35:24.619 [main] log4j - Test Started
+[INFO ] 2022-03-29 13:35:35.102 [main] log4j - Customer Added
+[INFO ] 2022-03-29 13:35:36.635 [main] log4j - Account Created
+[INFO ] 2022-03-29 13:35:38.367 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 13:35:38.462 [main] log4j - Logged In
+[INFO ] 2022-03-29 13:35:41.692 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:35:43.659 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 13:35:43.659 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 13:35:43.701 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 13:35:55.182 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 13:35:55.344 [main] log4j - transactions checked
+[INFO ] 2022-03-29 13:35:55.453 [main] log4j - Credit Transactions Successfully added
+[INFO ] 2022-03-29 13:35:55.454 [main] log4j - Debit Transactions Successfully added
+[INFO ] 2022-03-29 13:36:00.944 [main] log4j - Withdraw error message printed
+[INFO ] 2022-03-29 13:36:05.769 [main] log4j - Alert message for same userID printed

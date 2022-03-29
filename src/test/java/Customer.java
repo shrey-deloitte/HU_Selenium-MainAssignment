@@ -68,7 +68,6 @@ public class Customer {
     public static void withdrawl() throws InterruptedException {
         String latestDepositedAmount= Main.driver.findElement(By.xpath("//STRONG[@class='ng-binding'][text()='1000']")).getText();
         Main.driver.findElement(By.xpath("//BUTTON[@ng-class='btnClass3']")).click();
-        System.out.println("withdraw");
 
 
         sleep(4000);
@@ -101,7 +100,7 @@ public class Customer {
         log4j.logger.info("transactions checked");
     }
 
-    @AfterTest
+    //@AfterTest
     public static void quit(){
         Main.driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
         Main.driver.quit();
