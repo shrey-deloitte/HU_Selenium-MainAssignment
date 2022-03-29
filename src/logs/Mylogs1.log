@@ -399,3 +399,123 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [INFO ] 2022-03-29 01:20:50.675 [main] log4j - Account Created
 [INFO ] 2022-03-29 01:20:51.985 [main] log4j - Logged In
 [INFO ] 2022-03-29 01:20:53.555 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 01:30:03.844 [main] log4j - Test Started
+[INFO ] 2022-03-29 01:30:07.875 [main] log4j - Customer Added
+[INFO ] 2022-03-29 01:30:09.377 [main] log4j - Account Created
+[INFO ] 2022-03-29 01:30:10.906 [main] log4j - Logged In
+[INFO ] 2022-03-29 01:30:13.075 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:32:01.914 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:32:03.878 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:32:05.088 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:32:06.324 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:32:06.402 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:32:07.277 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:32:07.919 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:32:07.920 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:32:07.959 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:47:05.590 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:47:07.498 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:47:08.680 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:47:09.874 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:47:09.945 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:47:10.763 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:47:11.558 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:47:11.558 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:47:11.588 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:49:42.417 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:49:44.457 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:49:45.745 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:49:46.884 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:49:46.950 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:49:47.822 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:49:48.513 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:49:48.513 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:49:48.558 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:50:25.400 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:50:27.928 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:50:28.854 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:50:29.911 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:50:29.975 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:50:30.847 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:50:31.481 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:50:31.481 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:50:31.509 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:50:45.421 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:50:47.328 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:50:48.650 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:50:49.933 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:50:50.004 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:50:50.861 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:50:51.514 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:50:51.514 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:50:51.554 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:55:23.894 [main] log4j - Test Started
+[INFO ] 2022-03-29 09:55:25.851 [main] log4j - Customer Added
+[INFO ] 2022-03-29 09:55:27.238 [main] log4j - Account Created
+[INFO ] 2022-03-29 09:55:28.361 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 09:55:28.430 [main] log4j - Logged In
+[INFO ] 2022-03-29 09:55:29.223 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 09:55:29.864 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 09:55:29.864 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 09:55:29.900 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 09:55:41.349 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 10:18:29.718 [main] log4j - Test Started
+[INFO ] 2022-03-29 10:34:25.759 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:34:12.474 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:34:57.648 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:38:21.855 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:50:38.833 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:52:11.248 [main] log4j - Test Started
+[INFO ] 2022-03-29 11:54:43.025 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:12:11.341 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:13:17.828 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:15:38.167 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:18:18.225 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:20:29.363 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:20:37.083 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:22:50.234 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:22:57.943 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:25:04.271 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:25:11.971 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:25:12.733 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:26:54.682 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:27:02.396 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:27:03.078 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:27:03.810 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 12:27:03.852 [main] log4j - Logged In
+[INFO ] 2022-03-29 12:27:04.549 [main] log4j - tracnsactions checked
+[INFO ] 2022-03-29 12:27:05.043 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 12:27:05.043 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 12:27:05.055 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 12:27:16.241 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 12:30:33.182 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:30:40.894 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:30:41.581 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:30:42.342 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 12:30:42.373 [main] log4j - Logged In
+[INFO ] 2022-03-29 12:30:43.092 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:30:43.133 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:31:15.223 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:31:22.908 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:31:23.560 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:31:24.315 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 12:31:24.350 [main] log4j - Logged In
+[INFO ] 2022-03-29 12:31:25.049 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:31:25.526 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 12:31:25.527 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 12:31:25.551 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 12:31:36.748 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 12:31:36.811 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:44:15.940 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:46:32.222 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:47:37.634 [main] log4j - Test Started
+[INFO ] 2022-03-29 12:47:45.349 [main] log4j - Customer Added
+[INFO ] 2022-03-29 12:47:46.062 [main] log4j - Account Created
+[INFO ] 2022-03-29 12:47:46.797 [main] log4j - Customer name selected
+[INFO ] 2022-03-29 12:47:46.831 [main] log4j - Logged In
+[INFO ] 2022-03-29 12:47:47.545 [main] log4j - transactions checked
+[INFO ] 2022-03-29 12:47:48.023 [main] log4j - Success Message Printed
+[INFO ] 2022-03-29 12:47:48.023 [main] log4j - Amount Deposited
+[INFO ] 2022-03-29 12:47:48.036 [main] log4j - balance amount cross-checked
+[INFO ] 2022-03-29 12:47:59.248 [main] log4j - Message Successfully printed
+[INFO ] 2022-03-29 12:47:59.295 [main] log4j - transactions checked

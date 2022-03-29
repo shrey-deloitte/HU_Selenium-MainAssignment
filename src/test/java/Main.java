@@ -11,11 +11,13 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
+import java.util.ArrayList;
 
 import static java.lang.Thread.sleep;
 
 public class Main {
      static WebDriver driver;
+      public  static ArrayList<CustomerDetails> custumerList ;
 
     public static void SuccessScreenshot() throws IOException, AWTException {
         BufferedImage image = new Robot().createScreenCapture(new Rectangle(Toolkit.getDefaultToolkit().getScreenSize()));
@@ -30,12 +32,16 @@ public class Main {
 
 
     @BeforeTest
-    public static void launch(){
+    public static void launch() throws IOException, InterruptedException {
         System.setProperty("webdriver.chrome.driver","C:\\Users\\shredeshpande\\Downloads\\chromedriver.exe");
         driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login");
         log4j.logger.info("Test Started");
+        XlsxReader reader=new XlsxReader("src/resources/customerDetails.xlsx");
+        custumerList=reader.readFile();
+        sleep(3000);
+
     }
 
 
@@ -48,10 +54,12 @@ public class Main {
     }
 
 
-    @AfterTest
+
+  //  @AfterTest
     public static void quit(){
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
         driver.quit();
+        log4j.logger.info("Test Ended");
     }
 
 }
